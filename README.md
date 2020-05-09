@@ -16,6 +16,7 @@ Python 3+
 ### Running
 
 solution.json - Contains the solution to be validated, can be modified to test with different solutions.
+
 solution_validator.py - Contains logic to validate the above solution.
 
 ```
